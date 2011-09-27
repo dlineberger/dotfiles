@@ -1,0 +1,5 @@
+// Automatically go to links
+hints_auto_exit_delay = 100;
+
+// URL Completion
+url_completion_use_history = true;
