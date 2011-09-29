@@ -3,3 +3,7 @@ hints_auto_exit_delay = 100;
 
 // URL Completion
 url_completion_use_history = true;
+
+// Helpful key bindings
+define_key(content_buffer_normal_keymap, "o", "follow-new-buffer");
+define_key(content_buffer_normal_keymap, "O", "follow-new-buffer-background");
